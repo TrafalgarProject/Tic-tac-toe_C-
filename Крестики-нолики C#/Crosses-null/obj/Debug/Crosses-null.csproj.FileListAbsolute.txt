@@ -1,0 +1,36 @@
+C:\Users\Минато\Desktop\новые крестики нолики\Crosses-null\Crosses-null\bin\Debug\Crosses-null.exe.config
+C:\Users\Минато\Desktop\новые крестики нолики\Crosses-null\Crosses-null\bin\Debug\Crosses-null.exe
+C:\Users\Минато\Desktop\новые крестики нолики\Crosses-null\Crosses-null\bin\Debug\Crosses-null.pdb
+C:\Users\Минато\Desktop\новые крестики нолики\Crosses-null\Crosses-null\obj\Debug\Crosses-null.csprojResolveAssemblyReference.cache
+C:\Users\Минато\Desktop\новые крестики нолики\Crosses-null\Crosses-null\obj\Debug\Crosses_null.Properties.Resources.resources
+C:\Users\Минато\Desktop\новые крестики нолики\Crosses-null\Crosses-null\obj\Debug\Crosses-null.csproj.GenerateResource.Cache
+C:\Users\Минато\Desktop\новые крестики нолики\Crosses-null\Crosses-null\obj\Debug\Crosses-null.exe
+C:\Users\Минато\Desktop\новые крестики нолики\Crosses-null\Crosses-null\obj\Debug\Crosses-null.pdb
+C:\Users\Минато\Desktop\новые крестики нолики\Crosses-null\Crosses-null\obj\Debug\Crosses_null.Game3x3.resources
+D:\Практика ООП\Крестики-нолики C#\Crosses-null\bin\Debug\Crosses-null.exe.config
+D:\Практика ООП\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses-null.exe
+D:\Практика ООП\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses-null.pdb
+D:\Практика ООП\Крестики-нолики C#\Crosses-null\bin\Debug\Crosses-null.exe
+D:\Практика ООП\Крестики-нолики C#\Crosses-null\bin\Debug\Crosses-null.pdb
+D:\Практика ООП\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses-null.csprojResolveAssemblyReference.cache
+D:\Практика ООП\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses_null.Game3x3.resources
+D:\Практика ООП\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses_null.Properties.Resources.resources
+D:\Практика ООП\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses-null.csproj.GenerateResource.Cache
+C:\Users\Минато\Desktop\Крестики-нолики C#\Crosses-null\bin\Debug\Crosses-null.exe.config
+C:\Users\Минато\Desktop\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses-null.exe
+C:\Users\Минато\Desktop\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses-null.pdb
+C:\Users\Минато\Desktop\Крестики-нолики C#\Crosses-null\bin\Debug\Crosses-null.exe
+C:\Users\Минато\Desktop\Крестики-нолики C#\Crosses-null\bin\Debug\Crosses-null.pdb
+C:\Users\Минато\Desktop\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses-null.csprojResolveAssemblyReference.cache
+C:\Users\Минато\Desktop\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses_null.Game3x3.resources
+C:\Users\Минато\Desktop\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses_null.Properties.Resources.resources
+C:\Users\Минато\Desktop\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses-null.csproj.GenerateResource.Cache
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Крестики-нолики C#\Crosses-null\bin\Debug\Crosses-null.exe.config
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Крестики-нолики C#\Crosses-null\bin\Debug\Crosses-null.exe
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Крестики-нолики C#\Crosses-null\bin\Debug\Crosses-null.pdb
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses-null.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses_null.Game3x3.resources
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses_null.Properties.Resources.resources
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses-null.csproj.GenerateResource.Cache
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses-null.exe
+C:\Users\Артём\Desktop\спк\Вт-212\ООП\Практика ООП\Крестики-нолики C#\Crosses-null\obj\Debug\Crosses-null.pdb
